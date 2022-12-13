@@ -1,0 +1,19 @@
+{
+  "name": "googlejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Sandro642",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
